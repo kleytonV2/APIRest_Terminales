@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Ejercicio4_APIRest.props" />
+</Project>
